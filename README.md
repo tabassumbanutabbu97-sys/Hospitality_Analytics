@@ -36,3 +36,7 @@ Key Insights:
 
 Dashboar Preview:
 <img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/65f65d08-813a-4fd8-ae7a-89437b0b84af" />
+
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ef5e8d04-c319-4434-8fbf-1f5443b7777e" />
+
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4c822402-af29-413e-94eb-2a9881566c5a" />
