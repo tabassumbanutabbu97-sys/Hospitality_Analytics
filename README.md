@@ -35,7 +35,7 @@ Key Insights:
 - Cancellation rate impacts overall revenue
 
 Dashboar Preview:
-<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/65f65d08-813a-4fd8-ae7a-89437b0b84af" />
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c70fb876-67ba-4536-9fff-c30b1faac400" />
 
 <img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ef5e8d04-c319-4434-8fbf-1f5443b7777e" />
 
